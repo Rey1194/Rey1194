@@ -1,9 +1,9 @@
-<h1 align="center">I'm David</h1>
+<h1 align="center">HI, I'm David Reyes</h1>
 <h3 align="center">A web/mobile developer from Ecuador</h3>
 
 - 🔭 I’m currently working on **my personal projects.**
 
-- 🌱 I’m currently learning **Flutter & C#**
+- 🌱 I’m currently learning **Flutter & JavaScript**
 
 - 💬 Ask me about **#android #kotlin**
 
