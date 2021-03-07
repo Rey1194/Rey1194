@@ -1,5 +1,5 @@
 <h1 align="center">I'm David</h1>
-<h3 align="center">A mobile developer from Ecuador</h3>
+<h3 align="center">A web/mobile developer from Ecuador</h3>
 
 - 🔭 I’m currently working on **my personal projects.**
 
