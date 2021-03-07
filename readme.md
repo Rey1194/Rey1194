@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter & JavaScript**
 
-- 💬 Ask me about **#android #kotlin**
+- 💬 Ask me.
 
 - 📫 How to reach me **yandridavidr@gmail.com**
 
