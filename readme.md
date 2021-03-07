@@ -1,8 +1,6 @@
 <h1 align="center">I'm David</h1>
 <h3 align="center">A passionate mobile developer from Ecuador</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=agamkoradiya" alt="" /> </p>
-
 - 🔭 I’m currently working on **my personal projects.**
 
 - 🌱 I’m currently learning **Flutter & C#**
