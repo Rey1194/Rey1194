@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **my personal projects.**
 
-- 🌱 I’m currently learning **Flutter & JavaScript**
+- 🌱 I’m currently learning **C# & JavaScript**
 
 - 💬 Ask me.
 
