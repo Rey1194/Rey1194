@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on **my personal projects.**
 
-- 🌱 I’m currently learning **Flutter & JavaScript**
+- 🌱 I’m currently learning **JavaScript & React**
 
-- 💬 Ask me.
+- 💬 Ask me about anything.
 
 - 📫 How to reach me **yandridavidr@gmail.com**
 
-- ⚡ Learning a new **language**
+- ⚡ Learning a new **language** and game **development**.
 
 <p align="center">
 <h3 align="center">Connect with me:</h3>
